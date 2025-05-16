@@ -30,3 +30,8 @@ For privacy questions, requests, or content removal, email:
 ---
 
 🧠 Stay sharp. Archive responsibly.
+
+---
+
+> ## ⚠️ Disclaimer
+> *The Dead Coders Society is an independent community project. We are not affiliated with any similarly named groups, organizations, films, or companies. All bots and content in this repository are created for educational and community use only.*
