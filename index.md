@@ -23,5 +23,3 @@ For privacy questions, takedown requests, or anything else:
 
 🧪 Built with love, caffeine, and Markdown.  
 Hosted via [GitHub Pages](https://pages.github.com/).
-
-> 🖼️ This image is original artwork and serves as an official brand asset of The Dead Coders Society. Please do not reuse or redistribute without permission.
