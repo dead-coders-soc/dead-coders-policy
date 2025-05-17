@@ -9,7 +9,7 @@ Welcome to the official policy site for The Dead Coders Society — a collective
 ## 📜 What You'll Find Here
 - 🔐 Privacy Policy — Learn what we collect and how we respect your data  
 - 📘 Terms of Service — Understand the rules and risks of using our bots  
-- 🤖 R.U.D.I. GitHub Repository — Project documentation and public bot info (no source code published)
+- <img src="https://raw.githubusercontent.com/dead-coders-soc/dead-coders-policy/main/assets/RUDI_Clean.png" alt="R.U.D.I. Icon" width="35" style="vertical-align: text-bottom;"> R.U.D.I. GitHub Repository — Project documentation and public bot info (no source code published)
 
 ## 📬 Contact
 For privacy questions, takedown requests, or anything else:
