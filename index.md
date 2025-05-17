@@ -1,8 +1,8 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://raw.githubusercontent.com/dead-coders-soc/dead-coders-policy/main/assets/The_Real_McCoy_White.png" alt="DCS Runner" width="140" height="140">
-  <img src="https://raw.githubusercontent.com/dead-coders-soc/dead-coders-policy/main/assets/inverted_hold_it_downn.png" alt="Hold It Downn" width="140" height="140">
+<div style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/dead-coders-soc/dead-coders-policy/main/assets/The_Real_McCoy_White.png" alt="DCS Runner" width="140" style="float: left; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/dead-coders-soc/dead-coders-policy/main/assets/inverted_hold_it_downn.png" alt="Hold It Downn" width="140" style="float: right; margin-left: 10px;">
 </div>
-
+<div style="clear: both;"></div>
 
 
 # The Dead Coders Society – Policy Portal
@@ -15,7 +15,7 @@ Welcome to the official policy site for **The Dead Coders Society** — a collec
 
 - 🔐 [Privacy Policy](privacy.md) — Learn what we collect and how we respect your data  
 - 📘 [Terms of Service](terms.md) — Understand the rules and risks of using our bots  
-- 🤖 [R.U.D.I. GitHub Repository](https://github.com/dead-coders-soc) — Source code and other bot projects (coming soon)
+- 🤖 [R.U.D.I. GitHub Repository](https://github.com/dead-coders-soc) — Project documentation and public bot info (no source code published)
 
 ---
 
