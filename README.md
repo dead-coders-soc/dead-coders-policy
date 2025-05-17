@@ -18,7 +18,7 @@ This repository contains the official privacy, usage, and branding policies for 
 
 ---
 
-## <img src="https://raw.githubusercontent.com/dead-coders-soc/dead-coders-policy/main/assets/RUDI_Clean.png" alt="R.U.D.I." width="20" style="vertical-align: text-bottom;"> About R.U.D.I.
+## <img src="https://raw.githubusercontent.com/dead-coders-soc/dead-coders-policy/main/assets/RUDI_Clean.png" alt="R.U.D.I." width="50" style="vertical-align: text-bottom;"> About R.U.D.I.
 
 **R.U.D.I.** is an AI-powered archivist bot designed to summarize, reformat, and preserve knowledge shared in Discord servers. It dives into old chats, pulls out links, code, images, and conversations, and gives them a clean, markdown-powered glow-up.
 
