@@ -1,9 +1,9 @@
-<div style="width:100%; height:100px; position:relative;">
-  <img src="https://raw.githubusercontent.com/dead-coders-soc/dead-coders-policy/main/assets/The_Real_McCoy_White.png" alt="DCS Runner" style="position: absolute; top: 0; left: 0;" width="100">
-  <img src="https://raw.githubusercontent.com/dead-coders-soc/dead-coders-policy/main/assets/inverted_hold_it_downn.png" alt="Hold It Downn" style="position: absolute; top: 0; right: 0;" width="100">
+<div>
+  <img src="https://raw.githubusercontent.com/dead-coders-soc/dead-coders-policy/main/assets/The_Real_McCoy_White.png" alt="DCS Runner" width="120" style="float: left; margin-right: 10px;"/>
+  <img src="https://raw.githubusercontent.com/dead-coders-soc/dead-coders-policy/main/assets/inverted_hold_it_downn.png" alt="Hold It Downn" width="120" style="float: right; margin-left: 10px;"/>
 </div>
 
-
+<br clear="both" />
 
 # The Dead Coders Society – Policy Portal
 
