@@ -30,3 +30,24 @@ Image Descriptions:
 • hold_it_downn.png  
   Emoji-style icon representing the DCS motto: “Hold it down.” Used to inject personality into content, bot messages, and community signage.
 
+• inverted_hold_it_downn.png  
+  Light-background compatible inversion of the Hold It Downn symbol. Designed to retain visual impact in light-themed content blocks or UI elements.
+
+• inverted_hold_it_downn_black_transparent.png  
+  Transparent black-on-clear variation of the inverted icon. Suitable for overlays, watermarks, and theme-agnostic integration.
+
+• McCoy_Banner.png  
+  Wide-format banner image incorporating the DCS runner emblem. Ideal for headers, landing pages, or long-format documents where a horizontal visual anchor is preferred.
+
+
+---
+
+⚠️ Image Use Notice:
+
+All image files in this directory are the intellectual property of The Dead Coders Society. These assets are provided solely for use in official DCS documentation and branding. 
+
+They may not be copied, redistributed, modified, embedded in external websites, or used in third-party projects without prior written permission. 
+
+Violation of these terms may result in takedown requests or further legal action.
+
+
