@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dead-coders-soc/dead-coders-policy/main/assets/McCoy_Banner.png" alt="Dead Coders Society Banner" width="400">
+  <img src="https://raw.githubusercontent.com/dead-coders-soc/dead-coders-policy/main/assets/McCoy_Banner.png" alt="Dead Coders Society Banner" width="200">
 </p>
 
 
