@@ -1,4 +1,13 @@
-<img src="https://raw.githubusercontent.com/dead-coders-soc/dead-coders-policy/main/assets/The_Real_McCoy_White.png" width="140" alt="Dead Coders Society Logo" style="margin-bottom: 1.2rem;">
+<table width="100%">
+<tr>
+  <td align="left" width="50%">
+    <img src="https://raw.githubusercontent.com/dead-coders-soc/dead-coders-policy/main/assets/McCoy_Banner.png" alt="Dead Coders Society Banner" width="400">
+  </td>
+  <td align="right" width="50%">
+    <img src="https://raw.githubusercontent.com/dead-coders-soc/dead-coders-policy/main/assets/inverted_hold_it_downn.png" alt="Hold It Downn Logo" width="400">
+  </td>
+</tr>
+</table>
 
 # The Dead Coders Society – Policy Portal
 
